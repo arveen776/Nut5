@@ -1,0 +1,89 @@
+{
+  "lots": [
+    {
+      "lot_number": "1234",
+      "status": "Rough",
+      "location": "Florida",
+      "next_appointment_date": null,
+      "task": null
+    },
+    {
+      "lot_number": "1001",
+      "status": "Foundation Complete",
+      "location": "Texas",
+      "next_appointment_date": "2026-02-15",
+      "task": "Electrical rough-in inspection"
+    },
+    {
+      "lot_number": "1002",
+      "status": "Framing In Progress",
+      "location": "California",
+      "next_appointment_date": "2026-02-18",
+      "task": "Frame inspection and HVAC installation"
+    },
+    {
+      "lot_number": "1003",
+      "status": "Drywall Complete",
+      "location": "Arizona",
+      "next_appointment_date": "2026-02-20",
+      "task": "Paint preparation and primer application"
+    },
+    {
+      "lot_number": "1004",
+      "status": "Site Prep",
+      "location": "Nevada",
+      "next_appointment_date": "2026-02-12",
+      "task": "Foundation pour and concrete curing"
+    },
+    {
+      "lot_number": "1005",
+      "status": "Final Inspection Pending",
+      "location": "Florida",
+      "next_appointment_date": "2026-02-14",
+      "task": "Final walkthrough and certificate of occupancy"
+    },
+    {
+      "lot_number": "1006",
+      "status": "Plumbing Complete",
+      "location": "Texas",
+      "next_appointment_date": "2026-02-16",
+      "task": "Plumbing inspection and water heater installation"
+    },
+    {
+      "lot_number": "1007",
+      "status": "Roofing Complete",
+      "location": "California",
+      "next_appointment_date": "2026-02-19",
+      "task": "Roof inspection and gutter installation"
+    },
+    {
+      "lot_number": "1008",
+      "status": "Electrical Complete",
+      "location": "Arizona",
+      "next_appointment_date": "2026-02-21",
+      "task": "Electrical final inspection and panel installation"
+    },
+    {
+      "lot_number": "1009",
+      "status": "Rough-In Complete",
+      "location": "Nevada",
+      "next_appointment_date": "2026-02-13",
+      "task": "Insulation installation and drywall start"
+    },
+    {
+      "lot_number": "1010",
+      "status": "Permits Approved",
+      "location": "Florida",
+      "next_appointment_date": "2026-02-11",
+      "task": "Site excavation and foundation layout"
+    },
+    {
+      "lot_number": "3004",
+      "status": "Rough",
+      "location": "Texas",
+      "next_appointment_date": null,
+      "task": null
+    }
+  ],
+  "last_updated": "2026-02-07T13:35:08.390019"
+}
