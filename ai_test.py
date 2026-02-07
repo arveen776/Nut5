@@ -5,6 +5,7 @@ from datetime import datetime
 from openai import OpenAI
 from dotenv import load_dotenv
 
+#heooo
 # Load environment variables from .env file
 # Get the directory where the script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
